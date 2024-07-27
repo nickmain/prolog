@@ -1,1 +1,3 @@
-# Pages site publishing template
+# Prolog documentation site
+
+https://hello.nickmain.com/prolog/
