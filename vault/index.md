@@ -1,5 +1,5 @@
 ---
-title: Site Template
+title: Prolog
 aliases:
   - Home
 ---
